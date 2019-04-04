@@ -1,12 +1,3 @@
-# Scout
-Software for association analysis of triads and unrelated subjects
-
-<div class="p2">Scout project:</div>
-
-*   [Documentation](scout.pdf)
-*   [Mind map](scout_map.html)
-
-</div>
 
 ## ![scout](scout.jpg)   <span class="large">Scout:    Software for association analysis of triads and unrelated subjects</span>
 
@@ -29,6 +20,10 @@ Software for association analysis of triads and unrelated subjects
 Scout is a software program for conducting combined association analysis of triads and unrelated subjects. The software utilizes statistical methodology developed in Epstein et al. (2005).  
 
 The downloaded file will contain both a command line version and a GUI version. Both versions use the SCOUT.dll file included in the distribution. Also, the current documentation was written for the command line version only; however, an update including the GUI version documentation is forthcoming.  
+
+### Download
+
+*   [scout.pdf](scout.pdf)
 
 ### Download
 
